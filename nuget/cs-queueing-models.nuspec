@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-queueing-models</id>
+    <version>1.0.1</version>
+    <authors>chen0040</authors>
+    <owners>chen0040</owners>
+    <licenseUrl>https://github.com/chen0040/cs-queuing-models/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/chen0040/cs-queuing-models</projectUrl>
+    <iconUrl>https://rawgit.com/chen0040/cs-queuing-models/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Queueing Models</description>
+    <releaseNotes>Queueing Models in .NET 4.5.2</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Queueing Theory, Queueing Models, Erlang-B, Erlang-C, MMs, MC Model, Extended Erlang-B, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
